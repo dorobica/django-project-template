@@ -1,0 +1,2 @@
+#Django latest release
+git+https://github.com/django/django@95cf17244c086cb31eef86bdb0db57a0b5d05e38
