@@ -1,1 +1,2 @@
-https://www.djangoproject.com/download/1.7.b4/tarball/
+Django==1.7
+backdrop==0.0.1
